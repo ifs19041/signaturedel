@@ -1,0 +1,4 @@
+[28-Mar-2023 01:49:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/scodeweb/localhost.scode.web.id/2023-hans-ttd-rsa/mahasiswa/include/function/all.php on line 98
+[28-Mar-2023 01:49:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/scodeweb/localhost.scode.web.id/2023-hans-ttd-rsa/mahasiswa/include/function/all.php on line 103
+[28-Mar-2023 01:49:53 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/scodeweb/localhost.scode.web.id/2023-hans-ttd-rsa/mahasiswa/include/function/all.php on line 107
+[28-Mar-2023 01:49:53 UTC] PHP Notice:  Undefined variable: j in /home/scodeweb/localhost.scode.web.id/2023-hans-ttd-rsa/mahasiswa/include/function/script.php on line 2

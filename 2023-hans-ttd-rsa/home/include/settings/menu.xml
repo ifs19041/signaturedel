@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<humans>
+<!-- MASTER MENU -->
+<!-- <menu><id>Home1</id><s>0</s><t>s</t><i>fa fa-home</i><n>Home</n><l>?p=home</l></menu>
+<menu><id>Profil2</id><s>0</s><t>s</t><i>fa fa-home</i><n>Profil</n><l>?p=profil</l></menu> -->
+<!-- <menu><id>Galery3</id><s>0</s><t>s</t><i>fa fa-home</i><n>Galery</n><l>?p=galery</l></menu>
+<menu><id>Berita4</id><s>0</s><t>s</t><i>fa fa-home</i><n>Berita</n><l>?p=berita</l></menu>
+<menu><id>Data Guru5</id><s>0</s><t>s</t><i>fa fa-home</i><n>Data Guru</n><l>?p=data guru</l></menu> -->
+<!--
+<menu><id>Login6</id><s>0</s><t>s</t><i>fa fa-home</i><n>Login Siswa</n><l>siswa</l></menu>
+<menu><id>Login6</id><s>0</s><t>s</t><i>fa fa-home</i><n>Login Guru</n><l>guru</l></menu>
+<menu><id>Login6</id><s>0</s><t>s</t><i>fa fa-home</i><n>Login Admin</n><l>admin</l></menu>
+<menu><id>Login6</id><s>0</s><t>s</t><i>fa fa-home</i><n>Login Orangtua</n><l>orangtua</l></menu>-->
+
+<!-- MASTER MENU -->
+</humans>

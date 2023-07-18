@@ -1,0 +1,23 @@
+{
+    "name": "haryandb/rsa",
+    "authors": [
+        {
+            "name": "linux",
+            "email": "haryandb@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "url": "https://github.com/haryandb/PHPWord.git",
+            "type": "git"
+        }
+    ],
+    "require": {
+        "phpoffice/phpword": "^0.18.3"
+    },
+    "config": {
+        "platform": {
+            "php": "5.6"
+        }
+    }
+}

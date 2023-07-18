@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<humans>
+<!-- MASTER MENU -->
+<menu><id>A</id><s>0</s><t>s</t><i>fa fa-home</i><n>Home</n><l>../home/index.php</l></menu>
+<!-- <menu><id>B</id><s>0</s><t>m</t><i>fa fa-edit</i><n>Master Data</n><l>#</l></menu> -->
+<!-- <menu><id>C</id><s>0</s><t>m</t><i>fa fa-calendar</i><n>Laporan</n><l>#</l></menu> -->
+
+
+
+<!-- SUB MENU -->
+<!-- <menu><id>B1</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Admin</n><l>../data_admin/index.php</l></menu> -->
+<menu><id>B</id><s>0</s><t>s</t><i>fa fa-edit</i><n>Data Dokumen</n><l>../data_dokumen/index.php</l></menu>
+<!-- <menu><id>B3</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Dosen</n><l>../data_dosen/index.php</l></menu> -->
+<!-- <menu><id>B4</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Mahasiswa</n><l>../data_mahasiswa/index.php</l></menu> -->
+<!-- SUB MENU -->
+<menu><id>C1</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Admin</n><l>../data_admin/index.php?input=cetak</l></menu>
+<menu><id>C2</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Dokumen</n><l>../data_dokumen/index.php?input=cetak</l></menu>
+<!-- <menu><id>C3</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Dosen</n><l>../data_dosen/index.php?input=cetak</l></menu> -->
+<menu><id>C4</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Mahasiswa</n><l>../data_mahasiswa/index.php?input=cetak</l></menu>
+<!-- SUB MENU -->
+<menu><id>X1</id><s>X</s><t>x</t><i>fa fa-home</i><n>Data Admin</n><l>../data_admin/index.php</l></menu>
+<menu><id>X2</id><s>X</s><t>x</t><i>fa fa-home</i><n>Data Dokumen</n><l>../data_dokumen/index.php</l></menu>
+<!-- <menu><id>X3</id><s>X</s><t>x</t><i>fa fa-home</i><n>Data Dosen</n><l>../data_dosen/index.php</l></menu> -->
+<menu><id>X4</id><s>X</s><t>x</t><i>fa fa-home</i><n>Data Mahasiswa</n><l>../data_mahasiswa/index.php</l></menu></humans>
